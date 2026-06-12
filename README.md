@@ -9,7 +9,7 @@ This project builds a deep neural network regression model to predict patient he
 > ✅ **Result:** The model successfully passed the challenge, consistently achieving an MAE of **$1351.94**.
 
 
-![Preview](https://drive.google.com/file/d/1hfhckYDFp6rLRRphowqYUhQ-NvTB0U4_/view?usp=sharing)
+![Preview](https://drive.google.com/uc?export=view&id=1hfhckYDFp6rLRRphowqYUhQ-NvTB0U4_)
 
 ---
 
